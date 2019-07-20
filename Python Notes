@@ -1,1 +1,14 @@
 
+Logic of Boolean Operators:
+>>> True and False
+False
+>>> True or False
+True
+>>> not False
+True
+
+Short-circuiting of logical expressions:
+a and b: if a is false, then a and b is false
+a or b: if a is true, then a or b is true
+not a: reverse of a
+
